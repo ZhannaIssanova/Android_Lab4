@@ -2,4 +2,4 @@
 Лабораторная работа 4 Электронная книга
 
 
-![Screenshot](screenshot1.png)
+![Screenshot](scrn.png)
